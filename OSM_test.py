@@ -79,14 +79,15 @@ if str(response)=='<Response [200]>':
     #Plot
     df_to_plot = pd.DataFrame(gdf.drop(columns='geometry')).replace({'node':'Security camera'})
     df_to_plot = update_table_based_on_new_ids(df_to_plot,baseline_ids_list).rename(columns={'tags_camera:mount':"Type of mount",'tags_camera:type':"Type of camera",'tags_surveillance':"Location",'tags_image':"Image URL"})
+    df_to_plot[["Type of mount","Type of camera","Location","Image URL"]] = df_to_plot[["Type of mount","Type of camera","Location","Image URL"]].fillna('(empty)')
     fig = px.scatter_mapbox(
                             df_to_plot,
                             lon='lon',
                             lat='lat',
                             hover_data=hover_names,
-                            zoom=9.5,
+                            zoom=10,
                             color='New',
-                            color_discrete_sequence=["goldenrod","white"],
+                            color_discrete_sequence=["white","goldenrod"],
                             labels={'type':' '},
                             title='Security cameras in Geneva'
                             )
@@ -103,19 +104,19 @@ if str(response)=='<Response [200]>':
                                 },
                         showlegend=True,
                         title=dict(
-                                    x=0.065,
-                                    y=0.89,
+                                    x=0.0,
+                                    y=0.99,
                                     font=dict(
                                                 family="Georama",
                                                 size=26,
                                                 color="Black"
-                                            ),
+                                            )
                         ),
                         legend=dict(
                                         borderwidth=2,
                                         itemclick= 'toggleothers',# when you are clicking an item in legend all that are not in the same group are hidden
                                         x=0.75,
-                                        y=0.05,
+                                        y=0.02,
                                         traceorder="reversed",
                                         title_font_family="Georama",
                                         title_font_size=1,
@@ -135,14 +136,20 @@ if str(response)=='<Response [200]>':
                                             font_family="Georama"
                                             )   
                             )
+    fig.update_layout(
+        margin={"r":0,"l":0,"b":0,"t":30}
+                      )
     config_param = {
         #'frameMargins':0,
         'fillFrame':False,
         'responsive':True,
-        'autosizable':True
-    }
+        'autosizable':True,
+        'setBackground':'black',
+        'displayModeBar':False
+        }
     fig.show()
     fig.write_html("index.html",full_html=False,config=config_param),
+    #fig.write_html("index.html")
 else:
     pass
 
