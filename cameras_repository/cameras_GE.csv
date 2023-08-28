@@ -1,0 +1,623 @@
+type;id;Type of mount;Type of camera;tags_ele;tags_man_made;Location;tags_surveillance:type;tags_surveillance:zone;Image URL;tags_camera:direction;tags_highway;tags_addr:city;tags_addr:housenumber;tags_addr:street;tags_direction;tags_camera:count;tags_manufacturer;tags_contact:webcam;lat;lon;New
+Security camera;929553249;ceiling;dome;99;surveillance;public;camera;town;(empty);;;;;;;;;;461.993.881;61.418.784;New security cameras logged
+Security camera;957402636;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792696702/;;;;;;;;;;462.289.778;61.225.376;Security cameras
+Security camera;957404496;ceiling;dome;3;surveillance;public;camera;town;(empty);280;;;;;;;;;462.286.434;61.221.258;Security cameras
+Security camera;1277706510;(empty);(empty);;surveillance;public;;;(empty);;;;;;;;;;461.938.955;60.780.203;Security cameras
+Security camera;1420818454;(empty);(empty);;surveillance;(empty);;;(empty);;traffic_signals;;;;;;;;461.991.348;61.281.274;New security cameras logged
+Security camera;1470040291;wall;dome;5;surveillance;public;camera;town;(empty);45;;;;;;;;;46.231.413;61.318.315;Security cameras
+Security camera;1470695049;pole;fixed;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697197/;130;;;;;;;;;462.306.935;61.256.539;Security cameras
+Security camera;1799269967;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.278.475;6.075.395;Security cameras
+Security camera;1799269973;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.280.045;60.754.867;Security cameras
+Security camera;1807711691;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.701.562;61.281.403;Security cameras
+Security camera;1807711857;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.740.772;61.288.593;Security cameras
+Security camera;1807711905;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.187.524;61.283.678;Security cameras
+Security camera;1811756812;traffic_signals;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52767662031;;;;;;;;;;462.041.637;61.399.385;Security cameras
+Security camera;1811756815;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.066.025;61.404.338;Security cameras
+Security camera;1811756836;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.258.889;60.828.516;Security cameras
+Security camera;1814292895;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.584;61.400.222;Security cameras
+Security camera;1814368645;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.013.161;60.765.261;Security cameras
+Security camera;1814368649;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.038.247;6.075.421;Security cameras
+Security camera;1826653106;street_lamp;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700418/;75;;;;;;;;;462.283.534;61.122.005;Security cameras
+Security camera;1874307777;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.341.612;60.531.705;Security cameras
+Security camera;1878563862;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.178.339;60.840.611;Security cameras
+Security camera;1878563899;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.789.228;6.084.585;Security cameras
+Security camera;1881602471;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.832.967;61.203.357;Security cameras
+Security camera;1881602719;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.275.442;60.773.465;Security cameras
+Security camera;1885813024;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.914.137;61.357.661;Security cameras
+Security camera;1885813028;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.930.529;6.138.789;Security cameras
+Security camera;1885813030;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.948.124;61.414.157;Security cameras
+Security camera;1895035293;traffic_signals;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.012.718;61.402.592;Security cameras
+Security camera;1895035301;pole;fixed;;surveillance;public;camera;;(empty);35;;;;;;;;;462.013.703;61.437.319;Security cameras
+Security camera;1895035516;street_lamp;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.057.365;61.324.322;Security cameras
+Security camera;1899972979;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.161.176;61.187.368;Security cameras
+Security camera;1899972980;pole;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.165.273;61.175.563;Security cameras
+Security camera;1903124234;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.997.024;61.743.231;Security cameras
+Security camera;1917476092;wall;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;461.967.679;61.352.352;New security cameras logged
+Security camera;1919381356;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.999.298;61.287.771;Security cameras
+Security camera;1927575186;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.172.512;61.258.839;Security cameras
+Security camera;1929157285;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.773.698;61.221.826;Security cameras
+Security camera;1932958081;street_lamp;dome;10m;surveillance;public;camera;traffic;https://www.flickr.com/photos/197895716@N03/52792697137/;;;;;;;;;;462.301.969;6.110.249;Security cameras
+Security camera;1965808045;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.128.565;6.131.185;Security cameras
+Security camera;1983459887;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.213.406;61.008.422;Security cameras
+Security camera;1998641819;(empty);fixed;;surveillance;public;camera;town;(empty);45;;;;;;;;;462.322.083;61.385.355;New security cameras logged
+Security camera;2297249278;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;461.999.907;614.066;Security cameras
+Security camera;2297249293;street_lamp;fixed;;surveillance;public;camera;;(empty);274;;;;;;;;;462.083.585;61.353.723;Security cameras
+Security camera;2297250213;street_lamp;dome;10;surveillance;public;camera;traffic;https://www.flickr.com/photos/197895716@N03/52793495769/;;;;;;;;;;462.331.467;61.230.174;Security cameras
+Security camera;2297681764;street_lamp;panning;;surveillance;public;camera;area;(empty);360;;;;;;;;;462.314.214;61.251.243;Security cameras
+Security camera;2297681826;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.315.779;61.256.718;Security cameras
+Security camera;2297682024;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.320.638;61.279.814;Security cameras
+Security camera;2297682781;wall;fixed;4;surveillance;public;camera;public;https://www.flickr.com/photos/197895716@N03/52793254536/;10;;;;;;;;;462.358.299;61.268.239;Security cameras
+Security camera;2302343652;wall;fixed;4;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52792704570/;0;;;;;;;;;462.330.937;61.206.398;New security cameras logged
+Security camera;2328703481;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.066.961;61.441.451;Security cameras
+Security camera;3783593463;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495794/;40;;Le Grand-Saconnex;31;Route de Colovrex;;;;;46.235.949;61.256.192;Security cameras
+Security camera;3857183776;mast;dome;;surveillance;public;camera;town;(empty);35;;;;;;;;;462.301.284;61.260.174;Security cameras
+Security camera;5649085856;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.315.866;61.261.533;Security cameras
+Security camera;5649085857;wall;fixed;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.313.795;61.268.302;Security cameras
+Security camera;5649085858;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;46.231.408;61.263.538;Security cameras
+Security camera;5649085859;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.314.922;61.262.813;Security cameras
+Security camera;5649085860;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.315.319;61.262.032;Security cameras
+Security camera;5649085861;wall;dome;;surveillance;outdoor;camera;entrance;(empty);;;;;;;;;;462.238.225;60.762.808;Security cameras
+Security camera;5649085862;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.314.519;61.263.171;Security cameras
+Security camera;5649085863;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.314.871;61.262.455;Security cameras
+Security camera;5649085864;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.315.985;61.261.884;Security cameras
+Security camera;5649085865;wall;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.239.737;60.764.098;Security cameras
+Security camera;5649085867;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.313.972;61.263.222;Security cameras
+Security camera;5649085868;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.314.414;61.262.846;Security cameras
+Security camera;5649085869;ceiling;dome;;surveillance;outdoor;camera;parking;(empty);;;;;;;;;;462.315.419;61.262.372;Security cameras
+Security camera;5909136896;street_lamp;dome;8;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700898/;;;;;;;;;;462.240.716;60.992.036;Security cameras
+Security camera;6078100333;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792696867;;;;;;;;;;462.324.113;61.231.642;Security cameras
+Security camera;6516662651;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254476/;;;;;;;;;;462.294.536;61.214.567;Security cameras
+Security camera;6673223357;street_lamp;fixed;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495869/;30;;;;;;;;;462.303.485;61.254.663;Security cameras
+Security camera;6673223358;pole;dome;;surveillance;outdoor;camera;parking;(empty);180;;;;;;;;;462.318.336;61.259.815;Security cameras
+Security camera;6673223359;street_lamp;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495809/;205;;;;;;;;;462.306.532;6.126.085;Security cameras
+Security camera;6688455698;traffic_signals;fixed;;surveillance;traffic;camera;;(empty);-8;;;;;;;;;46.244.177;61.233.229;Security cameras
+Security camera;6757241255;building;fixed;;surveillance;public;camera;town;(empty);165;;;;;;;;;462.267.316;61.216.701;Security cameras
+Security camera;6757241256;building;fixed;;surveillance;public;camera;town;(empty);210;;;;;;;;;462.267.436;61.216.488;Security cameras
+Security camera;6917882567;ceiling;dome;;surveillance;outdoor;camera;;(empty);;;;;;;;;;462.109.379;61.423.065;Security cameras
+Security camera;6928121637;(empty);(empty);;surveillance;camera;ALPR;traffic;(empty);;;;;;228;;;;461.623.425;61.076.032;Security cameras
+Security camera;6934688790;ceiling;dome;;surveillance;outdoor;camera;;(empty);;;;;;;;;;462.099.019;61.410.196;Security cameras
+Security camera;6939052707;wall;dome;;surveillance;indoor;camera;;(empty);;;;;;;;;;462.107.011;61.429.902;Security cameras
+Security camera;6939052708;wall;dome;;surveillance;indoor;camera;;(empty);;;;;;;2;;;462.104.724;61.430.179;Security cameras
+Security camera;7890290255;pole;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775498285;;;;;;;;;;462.539.155;61.547.394;New security cameras logged
+Security camera;8125019323;ceiling;fixed;4;surveillance;public;camera;town;(empty);290;;;;;;;;;46.227.544;61.306.079;Security cameras
+Security camera;8814833326;wall;fixed;4;surveillance;public;camera;town;(empty);325;;;;;;;;;462.280.076;61.299.038;Security cameras
+Security camera;9487636288;wall;fixed;;surveillance;public;camera;town;(empty);49;;;;;;;;;462.326.336;61.215.835;Security cameras
+Security camera;10717606404;ceiling;dome;5;surveillance;public;camera;public;https://www.flickr.com/photos/197895716@N03/52792697207/;;;;;;;;;;462.333.761;6.122.659;Security cameras
+Security camera;10717611901;pole;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793255066/;;;;;;;;;;462.337.976;61.236.102;Security cameras
+Security camera;10717624519;wall;fixed;4;surveillance;public;camera;public;https://www.flickr.com/photos/197895716@N03/52793253971/;255;;;;;;;;;462.359.591;61.269.746;Security cameras
+Security camera;10717630223;wall;fixed;;surveillance;public;camera;town;(empty);250;;;;;;;;;462.354.276;61.256.003;Security cameras
+Security camera;10717658791;wall;dome;3;surveillance;public;camera;public;https://www.flickr.com/photos/197895716@N03/52792697542/;220;;;;;;;;;462.331.188;61.220.847;Security cameras
+Security camera;10717685977;street_lamp;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697437/;350;;;;;;;;;462.376.155;61.252.202;Security cameras
+Security camera;10719001066;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254266/;130;;;;;;;;;46.229.035;61.205.032;Security cameras
+Security camera;10719033106;street_lamp;fixed;6;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254526/;5;;;;;;;hikvision;;462.278.108;61.186.868;Security cameras
+Security camera;10719059423;pole;fixed;6;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700268/;140;;;;;;;hikvision;;462.279.473;61.214.484;Security cameras
+Security camera;10719855857;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.288.957;61.217.456;Security cameras
+Security camera;10719884215;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793496114/;45;;;;;;;;;462.290.387;61.218.858;Security cameras
+Security camera;10719892971;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647200/;70;;;;;;;;;462.286.594;61.221.437;Security cameras
+Security camera;10719981084;street_lamp;dome;3;surveillance;public;camera;parking;https://www.flickr.com/photos/197895716@N03/52792697362/;90;;;;;;;;;462.231.063;6.119.329;Security cameras
+Security camera;10719991947;street_lamp;dome;3;surveillance;public;camera;parking;https://www.flickr.com/photos/197895716@N03/52792697362/;175;;;;;;;;;462.231.805;61.196.015;Security cameras
+Security camera;10720468485;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793648025/;230;;;;;;;;;462.357.116;61.265.431;Security cameras
+Security camera;10720858774;pole;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647975/;200;;;;;;;;;462.339.574;61.238.936;Security cameras
+Security camera;10720875568;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792696827/;45;;;;;;;;;46.235.756;61.262.935;Security cameras
+Security camera;10720877850;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700588/;295;;;;;;;;;462.347.674;61.240.841;Security cameras
+Security camera;10720893677;wall;dome;2.5;surveillance;public;camera;building;https://www.flickr.com/photos/197895716@N03/52793700058/;195;;;;;;;;;462.347.595;61.242.482;Security cameras
+Security camera;10720914563;wall;dome;2.5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700058/;120;;;;;;;;;462.347.671;61.242.695;Security cameras
+Security camera;10720923953;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700588/;290;;;;;;;;;462.347.696;61.240.754;Security cameras
+Security camera;10721014681;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647915/;45;;;;;;;;;462.291.281;61.223.486;Security cameras
+Security camera;10721021283;wall;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647965/;180;;;;;;;;;462.280.215;6.122.909;Security cameras
+Security camera;10721033042;wall;fixed;7;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254431/;5;;;;;;;;;462.276.073;61.224.856;Security cameras
+Security camera;10721073235;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647310/;75;;;;;;;;;462.278.513;61.226.999;Security cameras
+Security camera;10721084827;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700708/;;;;;;;;;;462.293.338;61.220.174;Security cameras
+Security camera;10721087842;wall;fixed;7;surveillance;public;camera;town;(empty);260;;;;;;;;;462.278.422;6.122.779;Security cameras
+Security camera;10721088047;ceiling;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495979/;350;;;;;;;;;462.295.832;61.216.158;Security cameras
+Security camera;10721088245;ceiling;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700778/;;;;;;;;;;462.289.723;61.227.327;Security cameras
+Security camera;10721099707;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700708/;;;;;;;;;;462.293.293;61.220.247;Security cameras
+Security camera;10721105178;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495979/;;;;;;;;;;462.295.853;61.216.124;Security cameras
+Security camera;10721109836;ceiling;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254476/;320;;;;;;;;;462.294.513;61.214.746;Security cameras
+Security camera;10721123242;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254476/;;;;;;;;;;46.229.462;61.214.679;Security cameras
+Security camera;10721133393;ceiling;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254476/;215;;;;;;;;;462.294.486;61.214.645;Security cameras
+Security camera;10721279892;gantry;dome;0.2;surveillance;public;camera;town;(empty);;;;;;;;;;462.264.449;61.238.868;Security cameras
+Security camera;10722134378;street_lamp;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697167/;;;;;;;;;;462.311.225;61.241.261;Security cameras
+Security camera;10722144253;pole;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495939/;;;;;;;;;;462.300.572;61.256.938;Security cameras
+Security camera;10722154876;street_lamp;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.252.248;61.326.581;Security cameras
+Security camera;10722154877;street_lamp;dome;8;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700598/;;;;;;;;;;462.243.145;6.133.717;Security cameras
+Security camera;10722171889;mast;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254681/;;;;;;;;;;46.220.948;61.405.112;Security cameras
+Security camera;10722173414;ceiling;dome;;surveillance;outdoor;camera;shop;https://www.flickr.com/photos/197895716@N03/52793647765/;;;;;;;;;;46.220.077;61.404.084;Security cameras
+Security camera;10722184935;ceiling;dome;;surveillance;outdoor;camera;shop;https://www.flickr.com/photos/197895716@N03/52793647765/;;;;;;;;;;462.201.721;61.403.891;Security cameras
+Security camera;10722202455;ceiling;dome;;surveillance;outdoor;camera;shop;https://www.flickr.com/photos/197895716@N03/52793647765/;;;;;;;;;;462.201.802;6.140.447;Security cameras
+Security camera;10722212025;ceiling;dome;;surveillance;outdoor;camera;shop;https://www.flickr.com/photos/197895716@N03/52793647765/;;;;;;;;;;462.200.748;6.140.491;Security cameras
+Security camera;10725327321;pole;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647870/;140;;;;;;;;;462.284.121;61.122.683;Security cameras
+Security camera;10725375509;street_lamp;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.252.902;6.106.524;Security cameras
+Security camera;10732717576;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793254861;70;;;;;;;;;46.229.437;61.287.102;Security cameras
+Security camera;10732751368;street_lamp;fixed;4;surveillance;outdoor;camera;parking;https://www.flickr.com/photos/197895716@N03/52793254006/;25;;;;;;;;;462.309.088;61.290.127;Security cameras
+Security camera;10732767730;ceiling;dome;4;surveillance;public;camera;town;(empty);45;;;;;;;;;462.285.295;61.289.805;Security cameras
+Security camera;10732768595;ceiling;fixed;4;surveillance;public;camera;town;(empty);105;;;;;;;;;46.227.894;61.296.853;Security cameras
+Security camera;10732770300;pole;fixed;4;surveillance;outdoor;camera;parking;(empty);335;;;;;;;;;462.303.646;61.304.761;Security cameras
+Security camera;10732770329;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.315.389;61.378.656;Security cameras
+Security camera;10732777032;street_lamp;dome;10;surveillance;public;camera;town;(empty);;;;;;;;;;462.328.035;61.362.842;Security cameras
+Security camera;10732784048;pole;fixed;4;surveillance;outdoor;camera;parking;(empty);325;;;;;;;;;462.308.874;6.131.203;Security cameras
+Security camera;10732786224;pole;dome;6;surveillance;public;camera;town;(empty);165;;;;;;;;;462.324.187;61.329.808;Security cameras
+Security camera;10733050399;pole;fixed;;surveillance;public;camera;town;(empty);324;;;;;;;;;462.319.845;61.371.657;Security cameras
+Security camera;10733064580;pole;fixed;;surveillance;public;camera;;(empty);129;;;;;;;;;462.319.638;61.371.893;Security cameras
+Security camera;10739900183;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52747192771/in/album-72177720306706870/;;;;;;;;;;462.052;614.323;New security cameras logged
+Security camera;10747882145;wall;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52771716717;305;;;;;;;;;462.103.708;61.414.419;New security cameras logged
+Security camera;10751591378;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52752650347;;;;;;;;;;46.208.786;6.143.975;New security cameras logged
+Security camera;10751591379;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52753430034;;;;;;;;;;46.208.549;6.144.415;New security cameras logged
+Security camera;10751598897;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52756924739;;;;;;;;;;46.230.047;6.067.746;New security cameras logged
+Security camera;10751598898;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52756953444;;;;;;;;;;46.201.458;616.643;New security cameras logged
+Security camera;10751598899;wall;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52753679188;320;;;;;;;;;462.092.722;61.435.814;New security cameras logged
+Security camera;10751598900;ceiling;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52753186911;;;;;;;;;;462.091.824;61.433.148;New security cameras logged
+Security camera;10751639876;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52756678506;;;;;;;;;;46.186.694;6.133.096;New security cameras logged
+Security camera;10751639877;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52757163843;;;;;;;;;;46.187.191;6.128.225;New security cameras logged
+Security camera;10751639878;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52757163838;;;;;;;;;;46.187.005;612.448;New security cameras logged
+Security camera;10751639879;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52757084630;;;;;;;;;;46.187.236;6.127.678;New security cameras logged
+Security camera;10751694171;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52758546912;;;;;;;;;;46.204.933;6.142.333;New security cameras logged
+Security camera;10751694172;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759087391;;;;;;;;;;46.204.851;6.142.065;New security cameras logged
+Security camera;10751694173;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52758542147;;;;;;;;;;46.205.007;6.142.559;New security cameras logged
+Security camera;10751694174;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759490645;;;;;;;;;;46.206.047;6.143.825;New security cameras logged
+Security camera;10751694175;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759332899;;;;;;;;;;46.206.032;6.143.814;New security cameras logged
+Security camera;10751694176;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759570533;;;;;;;;;;46.206.091;6.143.985;New security cameras logged
+Security camera;10751694177;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759570138;;;;;;;;;;46.206.158;6.144.168;New security cameras logged
+Security camera;10751694178;mast;fixed;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52756924754;215;;;;;;;;;462.097.391;61.413.387;New security cameras logged
+Security camera;10751694179;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52756140542;;;;;;;;;;46.209.752;6.141.861;New security cameras logged
+Security camera;10751694180;mast;dome;;surveillance;public;camera;area;https://www.flickr.com/photos/197895716@N03/52757084635;;;;;;;;;;461.874.972;61.252.675;New security cameras logged
+Security camera;10751694181;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52756140547;255;;;;;;;;;461.876.273;61.386.019;New security cameras logged
+Security camera;10754019804;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764077996;;;;;;;;;;46.204.072;6.135.585;New security cameras logged
+Security camera;10754030005;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764031810;;;;;;;;;;46.200.596;6.134.598;New security cameras logged
+Security camera;10754030006;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764113703;;;;;;;;;;46.201.495;6.138.921;New security cameras logged
+Security camera;10754030007;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763624706;;;;;;;;;;46.202.126;6.139.243;New security cameras logged
+Security camera;10754030008;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764112583;;;;;;;;;;46.202.089;6.139.297;New security cameras logged
+Security camera;10754030009;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763082237;;;;;;;;;;46.201.918;6.139.308;New security cameras logged
+Security camera;10754030010;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764111993;;;;;;;;;;46.203.158;6.139.115;New security cameras logged
+Security camera;10754030011;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.619;6.139.951;New security cameras logged
+Security camera;10754030012;(empty);(empty);;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52763079707;;;;;;;;;;462.040.359;61.412.983;New security cameras logged
+Security camera;10754030013;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763871994;;;;;;;;;;46.204.101;6.141.808;New security cameras logged
+Security camera;10754030014;(empty);dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52764028190;;;;;;;;;;462.038.649;61.413.271;New security cameras logged
+Security camera;10754030015;ceiling;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52764111198;;;;;;;;;;462.037.122;61.413.505;New security cameras logged
+Security camera;10754030016;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763871594;;;;;;;;;;46.204.814;6.142.677;New security cameras logged
+Security camera;10754030017;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763078707;;;;;;;;;;46.205.713;6.143.031;New security cameras logged
+Security camera;10754030018;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764108613;;;;;;;;;;46.205.416;6.143.653;New security cameras logged
+Security camera;10754030019;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764109188;;;;;;;;;;46.205.356;6.143.503;New security cameras logged
+Security camera;10754030020;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763076617;;;;;;;;;;46.205.497;6.144.007;New security cameras logged
+Security camera;10754030021;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764024485;;;;;;;;;;46.206.425;6.145.305;New security cameras logged
+Security camera;10754030022;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764023630;;;;;;;;;;46.208.831;6.144.436;New security cameras logged
+Security camera;10754030023;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764106603;;;;;;;;;;46.206.514;6.145.616;New security cameras logged
+Security camera;10754030024;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52764022755;;;;;;;;;;46.209.165;6.143.782;New security cameras logged
+Security camera;10754030025;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52763867679;;;;;;;;;;46.209.083;6.143.921;New security cameras logged
+Security camera;10754030026;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759575853;;;;;;;;;;4.620.419;6.136.626;New security cameras logged
+Security camera;10754030027;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759493905;;;;;;;;;;46.204.153;6.136.926;New security cameras logged
+Security camera;10754030028;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52758544517;;;;;;;;;;46.204.183;6.137.334;New security cameras logged
+Security camera;10754030029;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759088761;;;;;;;;;;46.204.176;6.137.076;New security cameras logged
+Security camera;10754030030;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759335809;;;;;;;;;;46.204.176;6.137.613;New security cameras logged
+Security camera;10754030031;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52759087801;;;;;;;;;;4.620.419;6.137.838;New security cameras logged
+Security camera;10763992396;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52767664606;;;;;;;;;;4.621.065;6.142.956;New security cameras logged
+Security camera;10763992397;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768152278;;;;;;;;;;46.210.509;6.142.687;New security cameras logged
+Security camera;10763992398;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52767917594;;;;;;;;;;4.621.065;6.142.323;New security cameras logged
+Security camera;10763992399;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768152653;;;;;;;;;;46.209.952;6.141.604;New security cameras logged
+Security camera;10763992400;ceiling;fixed;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52767918734;215;;;;;;;;;462.100.071;61.413.901;New security cameras logged
+Security camera;10763992401;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.621.065;6.142.956;New security cameras logged
+Security camera;10763992402;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768403014;;;;;;;;;;46.210.063;6.141.625;New security cameras logged
+Security camera;10763992403;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768407074;;;;;;;;;;46.210.316;6.141.818;New security cameras logged
+Security camera;10763992404;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.210.331;6.142.634;New security cameras logged
+Security camera;10764078905;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768162431;;;;;;;;;;46.210.331;6.142.634;New security cameras logged
+Security camera;10764078906;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52767626237;;;;;;;;;;46.210.902;6.142.569;New security cameras logged
+Security camera;10764078907;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52768151258;45;;;;;;;;;462.108.303;61.435.563;New security cameras logged
+Security camera;10764078908;(empty);dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52767663216;;;;;;;;;;462.109.122;61.434.213;New security cameras logged
+Security camera;10764078909;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52768074855;335;;;;;;;;;462.024.123;61.410.678;New security cameras logged
+Security camera;10764078910;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768149273;;;;;;;;;;462.084;6.142.258;New security cameras logged
+Security camera;10764078911;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52768074275;;;;;;;;;;46.208.512;6.142.333;New security cameras logged
+Security camera;10764078912;mast;dome;15;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52766931060;;;;;;;;;;462.322.079;6.133.638;New security cameras logged
+Security camera;10764078913;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766518041;;;;;;;;;;4.623.358;613.462;New security cameras logged
+Security camera;10764078914;mast;dome;25;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52767007658;;;;;;;;;;462.333.558;61.350.114;New security cameras logged
+Security camera;10764078915;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766518881;;;;;;;;;;4.623.382;614.004;New security cameras logged
+Security camera;10764078916;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52767008358;;;;;;;;;;4.623.385;614.004;New security cameras logged
+Security camera;10764078917;wall;dome;;surveillance;public;camera;building;https://www.flickr.com/photos/197895716@N03/52766539531;;;;;;;;;;4.623.336;613.295;New security cameras logged
+Security camera;10764078918;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52775841567;;;;;;;;;;46.200.277;6.137.677;New security cameras logged
+Security camera;10764078919;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766558968;;;;;;;;;;46.204.547;6.136.368;New security cameras logged
+Security camera;10764078920;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52765843329;4;;;;;;;;;462.012.142;61.329.171;New security cameras logged
+Security camera;10764078921;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52765065422;5;;;;;;;;;462.012.133;61.328.614;New security cameras logged
+Security camera;10764078923;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765590606;;;;;;;;;;4.620.171;6.134.823;New security cameras logged
+Security camera;10764078924;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766091548;;;;;;;;;;46.202.334;6.142.623;New security cameras logged
+Security camera;10764078925;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765605776;;;;;;;;;;46.202.379;6.142.344;New security cameras logged
+Security camera;10764078926;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766076533;;;;;;;;;;4.620.252;6.142.076;New security cameras logged
+Security camera;10764078927;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766090358;;;;;;;;;;46.202.713;6.142.644;New security cameras logged
+Security camera;10764078928;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765048172;;;;;;;;;;46.202.898;6.142.612;New security cameras logged
+Security camera;10764078929;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766075388;;;;;;;;;;46.203.314;614.214;New security cameras logged
+Security camera;10764078930;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765047662;;;;;;;;;;46.203.648;6.142.312;New security cameras logged
+Security camera;10764078931;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52766075213;;;;;;;;;;462.038.688;61.422.473;New security cameras logged
+Security camera;10764078932;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765997840;;;;;;;;;;46.204.131;6.144.908;New security cameras logged
+Security camera;10764078933;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765588736;;;;;;;;;;46.206.455;6.144.382;New security cameras logged
+Security camera;10764078934;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765588566;;;;;;;;;;46.208.772;6.142.784;New security cameras logged
+Security camera;10764078935;(empty);(empty);;surveillance;(empty);;;https://www.flickr.com/photos/197895716@N03/52765997400;;;;;;;;;;4.620.889;6.142.816;New security cameras logged
+Security camera;10767001066;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.622.028;614.922;New security cameras logged
+Security camera;10767001067;ceiling;dome;;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775065380/;;;;;;;;;;462.206.566;61.474.499;New security cameras logged
+Security camera;10767001068;ceiling;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775065380/;;;;;;;;;;462.206.636;61.474.234;New security cameras logged
+Security camera;10767001069;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52774081657/;;;;;;;;;;462.219.567;61.488.764;New security cameras logged
+Security camera;10767001070;street_lamp;dome;6;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775095778/;;;;;;;;;;46.233.282;61.492.281;New security cameras logged
+Security camera;10767001071;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.399;615.051;New security cameras logged
+Security camera;10767001072;(empty);dome;4;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775027790/;;;;;;;;;;462.534.323;61.534.894;New security cameras logged
+Security camera;10767001073;ceiling;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52774611466/;;;;;;;;;;4.625.346;615.345;New security cameras logged
+Security camera;10767001074;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.535;615.421;New security cameras logged
+Security camera;10767001075;pole;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775025490/;45;;;;;;;;;462.537.556;61.532.395;New security cameras logged
+Security camera;10767001076;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52776863294/;;;;;;;;;;462.544.446;61.522.215;New security cameras logged
+Security camera;10767001077;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775090593;;;;;;;;;;462.544.444;61.533.386;New security cameras logged
+Security camera;10767001078;wall;dome;3;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775090593;40;;;;;;;;;4.625.483;615.282;New security cameras logged
+Security camera;10767001079;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52774768163;315;;;;;;;;;462.549.156;61.526.625;New security cameras logged
+Security camera;10767001080;wall;dome;3;surveillance;public;camera;town;(empty);275;;;;;;;;https://www.flickr.com/photos/197895716@N03/52774698600;462.420.135;61.474.892;New security cameras logged
+Security camera;10767001081;wall;dome;3;surveillance;public;camera;town;(empty);5;;;;;;;;https://www.flickr.com/photos/197895716@N03/52773749192/;462.422.759;61.471.935;New security cameras logged
+Security camera;10767001082;wall;fixed;7;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52774278561;315;;;;;;;;;462.432.396;61.396.132;New security cameras logged
+Security camera;10767001083;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.210.546;6.141.539;New security cameras logged
+Security camera;10767001084;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52772661935;120;;;;;;;;;46.210.372;61.414.534;New security cameras logged
+Security camera;10767001085;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.186.894;6.131.358;New security cameras logged
+Security camera;10767001086;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.189.323;6.143.363;New security cameras logged
+Security camera;10767001087;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.195.406;6.145.552;New security cameras logged
+Security camera;10767001088;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.196.913;6.147.065;New security cameras logged
+Security camera;10767001089;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.197.017;6.147.183;New security cameras logged
+Security camera;10767001090;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.802;6.151.785;New security cameras logged
+Security camera;10767001091;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.364;6.151.678;New security cameras logged
+Security camera;10767001092;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.601;6.151.303;New security cameras logged
+Security camera;10767001093;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.802;6.150.841;New security cameras logged
+Security camera;10767001094;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.200.329;6.150.133;New security cameras logged
+Security camera;10767001095;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.891;6.149.983;New security cameras logged
+Security camera;10767001096;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.616;6.150.004;New security cameras logged
+Security camera;10767001097;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.198.265;6.146.947;New security cameras logged
+Security camera;10767001098;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.198.383;6.147.108;New security cameras logged
+Security camera;10767001102;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.209.455;6.143.084;New security cameras logged
+Security camera;10767001103;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.095.862;61.439.127;New security cameras logged
+Security camera;10767001104;wall;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52772067831;319;;;;;;;;;462.099;6.144.254;New security cameras logged
+Security camera;10767010005;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52771709906;;;;;;;;;;462.100.905;61.442.283;New security cameras logged
+Security camera;10767010006;wall;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52771536607;139;;;;;;;;;462.101.632;61.443.164;New security cameras logged
+Security camera;10767010007;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;4.621.134;6.146.142;New security cameras logged
+Security camera;10767010009;wall;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52772480895;315;;;;;;;;;462.114.496;61.474.165;New security cameras logged
+Security camera;10767010010;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.211.452;614.744;New security cameras logged
+Security camera;10767010011;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52772324079;120;;;;;;;;;462.114.776;61.473.338;New security cameras logged
+Security camera;10767010012;mast;dome;10;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52772480385;20;;;;;;;;;462.113.586;61.476.494;New security cameras logged
+Security camera;10767010015;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/5277206318;320;;;;;;;;;462.102.873;61.497.507;New security cameras logged
+Security camera;10767010016;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.209.499;6.148.867;New security cameras logged
+Security camera;10767010020;(empty);dome;;surveillance;public;camera;;(empty);;;;;;;;;;46.205.089;6.143.964;New security cameras logged
+Security camera;10767010023;(empty);(empty);3;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52773945561/;;;;;;;;;;462.030.447;61.355.923;New security cameras logged
+Security camera;10767010024;wall;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.030.563;61.359.249;New security cameras logged
+Security camera;10767010026;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.030.624;61.359.633;New security cameras logged
+Security camera;10768534248;ceiling;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775335684/;;;;;;;;;;462.543.948;61.528.522;New security cameras logged
+Security camera;10768534249;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775077481;120;;;;;;;;;462.545.985;61.526.866;New security cameras logged
+Security camera;10773960713;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.621.068;6.141.915;New security cameras logged
+Security camera;10773960714;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.106.786;61.419.088;New security cameras logged
+Security camera;10773960715;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.106.764;61.419.191;New security cameras logged
+Security camera;10773960716;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.106.771;61.419.119;New security cameras logged
+Security camera;10773960717;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.621.068;6.141.915;New security cameras logged
+Security camera;10773960718;wall;dome;4;surveillance;outdoor;camera;town;(empty);;;;;;;;;;462.542.266;61.526.143;New security cameras logged
+Security camera;10773960719;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.622.091;614.776;New security cameras logged
+Security camera;10773960720;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.622.137;614.572;New security cameras logged
+Security camera;10773960721;wall;fixed;;surveillance;public;camera;traffic;https://www.flickr.com/photos/197895716@N03/52775518435;;;;;;;;;;462.229.084;61.480.778;New security cameras logged
+Security camera;10773960722;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775583718;205;;;;;;;;;462.213.017;61.460.454;New security cameras logged
+Security camera;10773960723;wall;dome;;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775583718/;200;;;;;;;;;462.209.897;6.146.963;New security cameras logged
+Security camera;10773960724;wall;dome;5;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775579948;45;;;;;;;;;4.622.229;614.838;New security cameras logged
+Security camera;10773960725;mast;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775576733;135;;;;;;;;;462.237.765;61.482.276;New security cameras logged
+Security camera;10773960726;ceiling;dome;;surveillance;public;camera;;(empty);50;;;;;;;;;4.625.338;61.534;New security cameras logged
+Security camera;10773960727;street_lamp;fixed;5;surveillance;outdoor;camera;town;(empty);50;;;;;;;;https://www.flickr.com/photos/197895716@N03/52774609471/;462.536.366;61.544.496;New security cameras logged
+Security camera;10773960728;pole;dome;;surveillance;(empty);camera;town;(empty);;;;;;;;;https://www.flickr.com/photos/197895716@N03/52775567273/;46.253.842;6.154.711;New security cameras logged
+Security camera;10773960729;street_lamp;fixed;5;surveillance;public;camera;town;(empty);45;;;;;;;;https://www.flickr.com/photos/197895716@N03/52775337574/;462.535.572;61.543.162;New security cameras logged
+Security camera;10774104827;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.106.743;61.419.098;New security cameras logged
+Security camera;10774104828;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.106.735;61.419.181;New security cameras logged
+Security camera;10774104829;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.621.068;6.141.915;New security cameras logged
+Security camera;10774104830;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.621.068;6.141.915;New security cameras logged
+Security camera;10774118403;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52776897014;;;;;;;;;;462.000.191;61.383.812;New security cameras logged
+Security camera;10774118404;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.197.492;6.135.928;New security cameras logged
+Security camera;10774137705;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.196.935;6.134.984;New security cameras logged
+Security camera;10774152376;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.209.039;6.146.732;New security cameras logged
+Security camera;10774152377;(empty);dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52778050572/;;;;;;;;;;461.981.697;61.471.507;New security cameras logged
+Security camera;10774152378;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.196.564;6.149.532;New security cameras logged
+Security camera;10774152379;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204.703;6.142.086;New security cameras logged
+Security camera;10774152380;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204.762;6.142.376;New security cameras logged
+Security camera;10774152381;ceiling;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716;;;;;;;;;;462.005.841;61.374.823;New security cameras logged
+Security camera;10774152382;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52776630294;;;;;;;;;;462.005.715;61.373.077;New security cameras logged
+Security camera;10774152383;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.200.418;613.831;New security cameras logged
+Security camera;10778503751;wall;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775345094/;45;;;;;;;;;462.532.705;61.537.554;New security cameras logged
+Security camera;10778519853;pole;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775023665/;;;;;;;;;;462.540.133;61.528.746;New security cameras logged
+Security camera;10778529100;pole;fixed;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775025490/;45;;;;;;;;;462.537.101;61.533.128;New security cameras logged
+Security camera;10778532085;pole;fixed;4;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775025490/;45;;;;;;;;;462.538.101;61.531.517;New security cameras logged
+Security camera;10779178643;mast;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52766518041;;;;;;;;;;462.333.874;61.347.743;New security cameras logged
+Security camera;10779200809;mast;dome;5;surveillance;public;camera;parking;(empty);;;;;;;;;;462.332.074;61.327.272;New security cameras logged
+Security camera;10779262116;ceiling;fixed;5;surveillance;outdoor;camera;;https://www.flickr.com/photos/197895716@N03/52775095338;;;;;;;;;;462.374.553;61.483.621;New security cameras logged
+Security camera;10779262119;wall;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775095338;;;;;;;;;;462.374.508;61.482.526;New security cameras logged
+Security camera;10779262544;ceiling;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775095338;;;;;;;;;;462.373.484;6.148.259;New security cameras logged
+Security camera;10779288465;ceiling;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775095338;;;;;;;;;;462.373.501;61.483.624;New security cameras logged
+Security camera;10779304051;wall;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775576733;;;;;;;;;;462.237.311;61.482.497;New security cameras logged
+Security camera;10779312652;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775583718/;210;;;;;;;;;462.210.867;61.467.102;New security cameras logged
+Security camera;10779317355;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775583718;305;;;;;;;;;462.213.166;6.146.048;New security cameras logged
+Security camera;10779330987;wall;dome;3;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775583718/;315;;;;;;;;;462.209.963;61.469.589;New security cameras logged
+Security camera;10779335548;mast;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;462.326.584;61.388.331;New security cameras logged
+Security camera;10779354123;wall;dome;;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52775525115;215;;;;;;;;;462.209.108;61.472.166;New security cameras logged
+Security camera;10779354562;wall;fixed;;surveillance;outdoor;camera;;https://www.flickr.com/photos/197895716@N03/52774571082;;;;;;;;;;462.212.545;61.454.184;New security cameras logged
+Security camera;10779354564;mast;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52775099523/;;;;;;;;;;462.207.627;61.468.529;New security cameras logged
+Security camera;10779368330;(empty);fixed;;surveillance;public;camera;town;(empty);225;;;;;;;;;462.322.067;61.385.332;New security cameras logged
+Security camera;10779492054;wall;dome;3;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52773415637;70;;;;;;;;;46.202.843;61.351.304;New security cameras logged
+Security camera;10779503272;wall;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52774432108;85;;;;;;;;;462.022.549;61.343.045;New security cameras logged
+Security camera;10779510148;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52773945366;;;;;;;;;;462.030.459;61.356.467;New security cameras logged
+Security camera;10779511783;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52748844261;0;;;;;;;;;462.024.096;61.352.702;New security cameras logged
+Security camera;10779519118;wall;dome;3;surveillance;outdoor;camera;town;https://www.flickr.com/photos/197895716@N03/52749091759;;;;;;;;;;462.023.566;61.349.279;New security cameras logged
+Security camera;10779519119;wall;dome;;surveillance;(empty);camera;town;https://www.flickr.com/photos/197895716@N03/52765590606/;;;;;;;;;;462.023.611;61.342.755;New security cameras logged
+Security camera;10779521479;wall;fixed;;surveillance;outdoor;camera;building;(empty);20;;;;;;;;;46.201.481;61.332.402;New security cameras logged
+Security camera;10779523780;wall;dome;3;surveillance;outdoor;camera;;(empty);;;;;;;;;;462.030.715;61.359.418;New security cameras logged
+Security camera;10779523781;wall;fixed;;surveillance;outdoor;camera;building;(empty);170;;;;;;;;;462.014.112;61.332.531;New security cameras logged
+Security camera;10779528947;wall;fixed;;surveillance;outdoor;camera;;(empty);165;;;;;;;;;462.019.785;61.326.619;New security cameras logged
+Security camera;10779536052;wall;fixed;;surveillance;outdoor;camera;;(empty);249;;;;;;;;;462.020.015;6.132.647;New security cameras logged
+Security camera;10779538645;ceiling;fixed;4;surveillance;public;camera;;(empty);160;;;;;;;;;461.991.014;61.420.609;New security cameras logged
+Security camera;10779560750;(empty);fixed;;surveillance;outdoor;camera;building;(empty);;;;;;;;;;462.014.054;61.332.137;New security cameras logged
+Security camera;10779565708;wall;fixed;;surveillance;outdoor;camera;;(empty);0;;;;;;;;;;;
+Security camera;10780311451;wall;dome;2;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792704580/;34;;;;;;;;;46.233.567;6.118.626;New security cameras logged
+Security camera;10780388773;wall;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52791751507/;219;;;;;;;;;462.337.965;61.183.257;New security cameras logged
+Security camera;10780392224;wall;dome;2;surveillance;public;camera;town;(empty);34;;;;;;;;;462.335.761;61.186.131;New security cameras logged
+Security camera;10780398084;wall;dome;4;surveillance;public;camera;town;(empty);329;;;;;;;;;;;
+Security camera;10780405638;mast;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.349.608;61.165.324;New security cameras logged
+Security camera;10780415248;mast;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792755088/;;;;;;;;;;462.349.539;61.165.337;New security cameras logged
+Security camera;10781056294;wall;dome;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792704595/;219;;;;;;;;;462.336.377;61.185.561;New security cameras logged
+Security camera;10781157649;mast;fixed;;surveillance;public;camera;parking;https://www.flickr.com/photos/197895716@N03/52792755053/;220;;;;;;;;;462.336.914;61.132.972;New security cameras logged
+Security camera;10781168132;wall;dome;4;surveillance;public;camera;town;(empty);4;;;;;;;;;462.340.553;61.178.617;New security cameras logged
+Security camera;10781168133;mast;fixed;;surveillance;public;camera;parking;https://www.flickr.com/photos/197895716@N03/52792755098;240;;;;;;;;;462.340.989;61.139.543;New security cameras logged
+Security camera;10781182296;ceiling;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792755068/;;;;;;;;;;462.333.146;61.122.527;New security cameras logged
+Security camera;10781195799;ceiling;dome;7;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792309436/;;;;;;;;;;462.336.827;61.117.925;New security cameras logged
+Security camera;10781197456;ceiling;dome;7;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52792548029/;;;;;;;;;;462.334.022;61.120.628;New security cameras logged
+Security camera;10781211793;ceiling;dome;7;surveillance;public;camera;town;(empty);;;;;;;;;;46.233.253;6.112.389;New security cameras logged
+Security camera;10781363596;ceiling;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792548044/;;;;;;;;;;46.232.615;61.112.511;New security cameras logged
+Security camera;10781387290;mast;fixed;4;surveillance;public;camera;public;https://www.flickr.com/photos/197895716@N03/52792704615;190;;;;;;;;;462.327.541;61.112.968;New security cameras logged
+Security camera;10781394036;ceiling;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792548044/;;;;;;;;;;462.326.098;61.112.603;New security cameras logged
+Security camera;10781401314;ceiling;dome;3;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52783924863;;;;;;;;;;462.207.619;61.434.393;New security cameras logged
+Security camera;10781411433;ceiling;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52791751537;;;;;;;;;;4.623.242;61.110.106;New security cameras logged
+Security camera;10781411434;ceiling;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52791751537;;;;;;;;;;462.324.156;61.110.052;New security cameras logged
+Security camera;10781424771;mast;dome;10;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52791751537;;;;;;;;;;462.324.292;61.110.269;New security cameras logged
+Security camera;10781446719;ceiling;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;46.220.799;61.438.212;New security cameras logged
+Security camera;10781457278;ceiling;dome;4;surveillance;public;camera;town;https://www.flickr.com/photos/197895716;;;;;;;;;;461.999.792;61.383.653;New security cameras logged
+Security camera;10781621274;wall;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52771532812;225;;;;;;;;;46.210.121;6.149.913;New security cameras logged
+Security camera;10785182233;ceiling;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;462.096.707;61.407.937;New security cameras logged
+Security camera;10787179645;ceiling;fixed;;surveillance;public;camera;;(empty);220;;;;;;;;;462.090.814;61.406.218;New security cameras logged
+Security camera;10787183118;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.091.632;61.404.263;New security cameras logged
+Security camera;10799519637;wall;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;46.231.912;61.316.695;New security cameras logged
+Security camera;10799519638;wall;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;462.314.808;61.323.518;New security cameras logged
+Security camera;10799519639;wall;fixed;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.314.812;613.234;New security cameras logged
+Security camera;10799521935;street_lamp;dome;8;surveillance;public;camera;town;(empty);;;;;;;;;;46.232.019;61.385.968;New security cameras logged
+Security camera;10799530226;mast;dome;18;surveillance;public;camera;town;(empty);;;;;;;;;;462.321.637;61.357.539;New security cameras logged
+Security camera;10799530227;mast;dome;18;surveillance;public;camera;town;(empty);;;;;;;;;;462.324.057;61.361.852;New security cameras logged
+Security camera;10799530228;mast;dome;18;surveillance;public;camera;town;(empty);;;;;;;;;;462.326.862;6.135.859;New security cameras logged
+Security camera;10799530229;mast;dome;18;surveillance;public;camera;town;(empty);;;;;;;;;;462.324.576;61.354.256;New security cameras logged
+Security camera;10799573824;wall;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;462.314.196;61.318.068;New security cameras logged
+Security camera;10799573825;ceiling;dome;5;surveillance;public;camera;;(empty);;;;;;;;;;462.314.826;61.318.122;New security cameras logged
+Security camera;10799580833;ceiling;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.316.214;61.316.705;New security cameras logged
+Security camera;10799590538;mast;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;462.285.578;61.368.133;New security cameras logged
+Security camera;10799599062;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.315.138;61.320.621;New security cameras logged
+Security camera;10799605954;wall;;;;;;;;;;;;;;;;;;;
+Security camera;10799612950;ceiling;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.289.726;61.369.169;New security cameras logged
+Security camera;10799614089;wall;fixed;;surveillance;public;camera;;(empty);20;;;;;;;;;462.283.555;61.368.154;New security cameras logged
+Security camera;10799638154;wall;dome;3;surveillance;public;camera;town;(empty);140;;;;;;;;;462.289.028;61.370.017;New security cameras logged
+Security camera;10799660292;ceiling;dome;8;surveillance;public;camera;town;(empty);;;;;;;;;;462.281.119;61.370.064;New security cameras logged
+Security camera;10799660293;ceiling;dome;8;surveillance;public;camera;town;(empty);;;;;;;;;;462.280.819;61.369.737;New security cameras logged
+Security camera;10799668093;roof;fixed;7;surveillance;public;camera;town;(empty);195;;;;;;;;;462.289.128;61.370.096;New security cameras logged
+Security camera;10799677397;pole;fixed;;surveillance;public;camera;;(empty);;;;;;;;;;462.278.449;61.368.975;New security cameras logged
+Security camera;10799687461;street_lamp;dome;7;surveillance;public;camera;town;(empty);;street_lamp;;;;;;;;462.272.745;61.380.466;New security cameras logged
+Security camera;10799688515;mast;dome;8;surveillance;public;camera;town;(empty);;;;;;;;;;46.227.797;61.377.362;New security cameras logged
+Security camera;10799717805;street_lamp;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.271.743;6.138.406;New security cameras logged
+Security camera;10799718202;pole;fixed;;surveillance;public;camera;town;(empty);60;;;;;;;;;;;
+Security camera;10799723242;street_lamp;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.260.578;61.369.742;New security cameras logged
+Security camera;10799745557;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.228.607;61.406.193;New security cameras logged
+Security camera;10799771571;pole;fixed;;surveillance;public;camera;;(empty);150;;;;;;;;;462.228.459;61.385.873;New security cameras logged
+Security camera;10799771572;pole;fixed;;surveillance;public;camera;;(empty);185;;;;;;;;;462.227.635;61.390.937;New security cameras logged
+Security camera;10799778453;street_lamp;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;462.229.528;61.384.757;New security cameras logged
+Security camera;10799778454;pole;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.230.827;61.391.237;New security cameras logged
+Security camera;10799801310;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.234.004;61.436.309;New security cameras logged
+Security camera;10799808531;street_lamp;dome;10;surveillance;public;camera;town;(empty);;street_lamp;;;;;;;;462.232.972;61.442.167;New security cameras logged
+Security camera;10799824687;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.327.213;61.331.528;New security cameras logged
+Security camera;10799832972;(empty);dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.334.939;6.135.619;New security cameras logged
+Security camera;10799832973;(empty);dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.335.132;61.355.986;New security cameras logged
+Security camera;10799857271;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.323.695;61.331.121;New security cameras logged
+Security camera;10800980607;wall;fixed;;surveillance;(empty);camera;town;https://www.flickr.com/photos/197895716@N03/52793700368/;340;;;;;;;;;462.296.098;61.266.061;New security cameras logged
+Security camera;10800980608;wall;fixed;;surveillance;(empty);camera;town;https://www.flickr.com/photos/197895716@N03/52793700368/;145;;;;;;;;;462.296.062;61.266.124;New security cameras logged
+Security camera;10800980609;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647645/;350;;;;;;;;;462.299.339;61.260.309;New security cameras logged
+Security camera;10800980610;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647645/;110;;;;;;;;;462.299.287;6.126.032;New security cameras logged
+Security camera;10800980611;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647645/;160;;;;;;;;;462.299.469;61.263.157;New security cameras logged
+Security camera;10800980612;wall;fixed;3;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793647645/;255;;;;;;;;;462.299.502;6.126.305;New security cameras logged
+Security camera;10800980613;pole;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793496034/;;;;;;;;;;462.292.483;61.272.298;New security cameras logged
+Security camera;10801061996;street_lamp;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495809/;260;;;;;;;;;462.306.614;61.260.956;New security cameras logged
+Security camera;10801061997;street_lamp;fixed;6;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793495809/;;;;;;;;;;462.306.644;61.261.149;New security cameras logged
+Security camera;10801185435;pole;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697407/;295;;;;;;;;;462.231.483;61.359.385;New security cameras logged
+Security camera;10801185436;pole;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697407/;284;;;;;;;;;462.231.423;61.359.427;New security cameras logged
+Security camera;10801185437;wall;fixed;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792697407/;34;;;;;;;;;462.230.918;61.358.761;New security cameras logged
+Security camera;10801192605;mast;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52793700098/;;;;;;;;;;462.247.798;61.328.868;New security cameras logged
+Security camera;10801192606;pole;fixed;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52793495494/;254;;;;;;;;;462.233.086;61.355.221;New security cameras logged
+Security camera;10801192607;pole;fixed;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52793495494/;109;;;;;;;;;462.233.034;61.355.393;New security cameras logged
+Security camera;10801288257;wall;dome;4;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52792697362/;100;;;;;;;;;462.032.885;61.488.106;New security cameras logged
+Security camera;10801338152;traffic_signals;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52803038232;;;;;;;;;;461.991.076;61.280.833;New security cameras logged
+Security camera;10801344138;traffic_signals;fixed;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52804046948/;;;;;;;;;;461.991.087;6.128.078;New security cameras logged
+Security camera;10801344139;pole;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52803851149/;;;;;;;;;;461.968.913;61.281.718;New security cameras logged
+Security camera;10801378665;traffic_signals;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52803851149/;;;;;;;;;;461.999.031;61.289.483;New security cameras logged
+Security camera;10801378666;traffic_signals;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52803851149/;;;;;;;;;;461.999.038;61.289.591;New security cameras logged
+Security camera;10801895302;ceiling;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52792704615/;;;;;;;;;;462.327.988;6.111.365;New security cameras logged
+Security camera;10801952488;traffic_signals;dome;;surveillance;public;camera;town;https://www.flickr.com/photos/197895716@N03/52803851149/;;;;;;;;;;462.041.727;61.399.347;New security cameras logged
+Security camera;10807286436;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.277.661;61.228.602;New security cameras logged
+Security camera;10807286437;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;46.227.546;61.225.812;New security cameras logged
+Security camera;10807286438;ceiling;fixed;;surveillance;public;camera;town;(empty);280;;;;;;;;;462.275.455;61.225.737;New security cameras logged
+Security camera;10807286494;pole;fixed;3;surveillance;public;camera;town;(empty);70;;;;;;;;;46.227.986;6.118.404;New security cameras logged
+Security camera;10807328780;wall;fixed;4;surveillance;public;camera;town;(empty);215;;;;;;;;;462.234.389;61.221.731;New security cameras logged
+Security camera;10807328781;wall;fixed;4;surveillance;public;camera;town;(empty);215;;;;;;;;;462.234.722;61.220.784;New security cameras logged
+Security camera;10807334364;wall;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.245.323;61.264.215;New security cameras logged
+Security camera;10807335756;wall;fixed;;surveillance;public;camera;town;(empty);45;;;;;;;;;462.301.923;61.262.355;New security cameras logged
+Security camera;10807335757;wall;fixed;;surveillance;public;camera;town;(empty);305;;;;;;;;;462.301.923;61.262.355;New security cameras logged
+Security camera;10807335758;wall;fixed;;surveillance;public;camera;town;(empty);305;;;;;;;;;462.303.129;61.265.558;New security cameras logged
+Security camera;10807335759;wall;fixed;;surveillance;public;camera;town;(empty);305;;;;;;;;;462.303.816;61.266.571;New security cameras logged
+Security camera;10807335760;wall;fixed;;surveillance;public;camera;town;(empty);320;;;;;;;;;46.230.674;61.271.732;New security cameras logged
+Security camera;10807354743;pole;fixed;4;surveillance;public;camera;town;(empty);255;;;;;;;;;462.221.493;61.258.874;New security cameras logged
+Security camera;10807354744;pole;dome;4;surveillance;public;camera;town;(empty);255;;;;;;;;;462.221.522;61.258.981;New security cameras logged
+Security camera;10807366020;wall;fixed;4;surveillance;public;camera;town;(empty);180;;;;;;;;;462.244.234;61.263.367;New security cameras logged
+Security camera;10807367390;wall;dome;3;surveillance;public;camera;town;(empty);35;;;;;;;;;462.227.006;61.234.764;New security cameras logged
+Security camera;10807367391;ceiling;dome;3;surveillance;public;camera;town;(empty);350;;;;;;;;;462.226.253;61.237.942;New security cameras logged
+Security camera;10807367392;ceiling;dome;3;surveillance;public;camera;town;(empty);350;;;;;;;;;46.222.629;61.238.253;New security cameras logged
+Security camera;10807367393;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.226.958;61.239.691;New security cameras logged
+Security camera;10807367394;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.229.563;61.232.663;New security cameras logged
+Security camera;10807367395;ceiling;dome;3;surveillance;public;camera;town;(empty);75;;;;;;;;;462.228.487;61.232.642;New security cameras logged
+Security camera;10807367396;ceiling;dome;3;surveillance;public;camera;town;(empty);75;;;;;;;;;462.228.227;61.232.749;New security cameras logged
+Security camera;10807367397;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.226.201;6.124.159;New security cameras logged
+Security camera;10807376818;wall;dome;6;surveillance;public;camera;town;(empty);30;;;;;;;;;462.216.528;61.254.888;New security cameras logged
+Security camera;10807378332;pole;dome;3;surveillance;outdoor;camera;entrance;(empty);;;;;;;;;;462.213.847;61.254.818;New security cameras logged
+Security camera;10807378333;pole;fixed;3;surveillance;outdoor;camera;entrance;(empty);295;;;;;;;;;46.221.384;61.254.765;New security cameras logged
+Security camera;10807381733;pole;dome;5;surveillance;public;camera;town;(empty);;;;;;;;;;462.216.928;61.179.441;New security cameras logged
+Security camera;10808603599;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.328.765;61.116.137;New security cameras logged
+Security camera;10808603600;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.327.681;61.114.291;New security cameras logged
+Security camera;10808603601;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.323.057;61.107.082;New security cameras logged
+Security camera;10808603602;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.324.694;61.109.592;New security cameras logged
+Security camera;10808603603;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.328.649;61.116.341;New security cameras logged
+Security camera;10808603604;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.328.872;61.116.341;New security cameras logged
+Security camera;10808696905;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.321.425;61.104.635;New security cameras logged
+Security camera;10808696906;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.321.929;61.104.206;New security cameras logged
+Security camera;10808696907;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.319.258;61.099.014;New security cameras logged
+Security camera;10808696908;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.320.267;61.099.571;New security cameras logged
+Security camera;10808696909;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.323.488;61.106.095;New security cameras logged
+Security camera;10808696910;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.325.076;61.108.884;New security cameras logged
+Security camera;10808696911;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.322.048;61.105.086;New security cameras logged
+Security camera;10808696912;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;4.623.223;61.104.786;New security cameras logged
+Security camera;10808696913;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.326.753;6.111.133;New security cameras logged
+Security camera;10808696914;ceiling;dome;;surveillance;indoor;camera;public_transport_platform;(empty);;;;;;;;;;462.326.367;61.112.038;New security cameras logged
+Security camera;10808852888;ceiling;dome;6;surveillance;public;camera;town;(empty);120;;;;;;;;;462.103.833;61.430.287;New security cameras logged
+Security camera;10808852889;ceiling;dome;6;surveillance;public;camera;town;(empty);125;;;;;;;;;462.102.754;61.429.066;New security cameras logged
+Security camera;10808875292;wall;dome;;surveillance;public;camera;town;(empty);45;;;;;;;;;462.091.485;61.416.261;New security cameras logged
+Security camera;10808875293;wall;dome;4;surveillance;public;camera;town;(empty);220;;;;;;;;;462.091.675;61.416.154;New security cameras logged
+Security camera;10808947195;pole;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;462.092.958;61.395.034;New security cameras logged
+Security camera;10808955249;pole;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;462.095.893;61.428.872;New security cameras logged
+Security camera;10809019863;wall;dome;4;surveillance;public;camera;town;(empty);45;;;;;;;;;462.072.134;61.389.104;New security cameras logged
+Security camera;10809019864;wall;dome;3;surveillance;public;camera;town;(empty);220;;;;;;;;;462.070.936;61.387.832;New security cameras logged
+Security camera;10809071228;pole;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.027.159;61.407.839;New security cameras logged
+Security camera;10809071229;wall;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.027.764;61.407.711;New security cameras logged
+Security camera;10809071230;pole;fixed;;surveillance;public;camera;;(empty);;;;;;;;;;462.028.592;6.140.763;New security cameras logged
+Security camera;10809071231;pole;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.028.869;61.411.069;New security cameras logged
+Security camera;10809071232;pole;fixed;;surveillance;public;camera;;(empty);;;;;;;;;;462.027.365;61.411.391;New security cameras logged
+Security camera;10809071233;pole;fixed;;surveillance;public;camera;;(empty);;;;;;;;;;462.028.624;61.407.678;New security cameras logged
+Security camera;10809110307;wall;dome;;surveillance;public;camera;town;(empty);170;;;;;;;;;462.024.169;61.410.679;New security cameras logged
+Security camera;10809122580;wall;fixed;;surveillance;public;camera;;(empty);300;;;;;;;;;461.993.214;61.421.373;New security cameras logged
+Security camera;10809122581;wall;fixed;;surveillance;public;camera;;(empty);25;;;;;;;;;461.992.838;61.420.273;New security cameras logged
+Security camera;10809133052;ceiling;dome;7;surveillance;public;camera;town;(empty);;;;;;;;;;461.999.624;61.425.248;New security cameras logged
+Security camera;10809133053;ceiling;dome;7;surveillance;public;camera;town;(empty);;;;;;;;;;461.996.822;61.427.367;New security cameras logged
+Security camera;10809138617;ceiling;dome;;surveillance;public;camera;;(empty);245;;;;;;;;;461.998.311;6.141.516;New security cameras logged
+Security camera;10809195012;wall;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;461.998.991;61.419.678;New security cameras logged
+Security camera;10809195013;wall;fixed;;surveillance;public;camera;town;(empty);165;;;;;;;;;461.999.017;61.419.755;New security cameras logged
+Security camera;10812494631;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.051.363;61.352.602;New security cameras logged
+Security camera;10812494632;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.051.376;61.352.584;New security cameras logged
+Security camera;10812494633;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.051.393;61.352.555;New security cameras logged
+Security camera;10812494634;ceiling;dome;3;surveillance;public;camera;town;(empty);;;;;;;;;;462.051.405;61.352.533;New security cameras logged
+Security camera;10812494635;ceiling;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.051.456;6.135.268;New security cameras logged
+Security camera;10812494636;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.051.491;61.352.595;New security cameras logged
+Security camera;10813920583;wall;fixed;;surveillance;public;camera;;(empty);129;;;;;;;;;461.986.456;61.432.931;New security cameras logged
+Security camera;10813920584;wall;dome;2.5;surveillance;public;camera;;(empty);90;;;;;;;;;461.986.077;6.143.291;New security cameras logged
+Security camera;10813974587;wall;fixed;4;surveillance;public;camera;town;(empty);355;;;;;;;;;46.198.824;61.438.207;New security cameras logged
+Security camera;10813974588;wall;dome;8;surveillance;public;camera;town;(empty);45;;;;;;;;;461.988.225;61.438.298;New security cameras logged
+Security camera;10813974589;wall;dome;4;surveillance;public;camera;town;(empty);115;;;;;;;;;46.198.816;61.438.229;New security cameras logged
+Security camera;10813974590;wall;fixed;;surveillance;public;camera;town;(empty);25;;;;;;;;;461.985.333;61.441.648;New security cameras logged
+Security camera;10813988882;ceiling;fixed;4;surveillance;public;camera;;(empty);305;;;;;;;;;461.990.785;61.420.807;New security cameras logged
+Security camera;10815834055;pole;dome;8;surveillance;public;camera;traffic;(empty);;;;;;;;;;462.407.127;61.229.426;New security cameras logged
+Security camera;10815856534;pole;dome;8;surveillance;public;camera;traffic;(empty);;;;;;;;;;462.415.586;61.231.916;New security cameras logged
+Security camera;10816814335;wall;dome;3;surveillance;public;camera;town;(empty);244;;;;;;;;;462.391.431;61.239.943;New security cameras logged
+Security camera;10816843956;ceiling;fixed;;surveillance;public;camera;;(empty);355;;;;;;;;;462.446.444;61.229.516;New security cameras logged
+Security camera;10816843957;gantry;fixed;8;surveillance;public;camera;town;(empty);159;;;;;;;;;462.485.797;61.206.717;New security cameras logged
+Security camera;10816843958;gantry;fixed;8;surveillance;public;camera;town;(empty);159;;;;;;;;;462.485.836;61.206.883;New security cameras logged
+Security camera;10816844060;wall;dome;;surveillance;public;camera;;(empty);205;;;;;;;;;462.089.247;61.191.235;New security cameras logged
+Security camera;10816844061;wall;dome;;surveillance;public;camera;;(empty);290;;;;;;;;;462.090.372;61.194.653;New security cameras logged
+Security camera;10816844062;wall;dome;;surveillance;public;camera;;(empty);290;;;;;;;;;462.093.923;61.195.817;New security cameras logged
+Security camera;10816894727;wall;dome;;surveillance;public;camera;;(empty);270;;;;;;;;;462.126.069;61.167.785;New security cameras logged
+Security camera;10816894728;ceiling;dome;;surveillance;indoor;camera;shop;(empty);;;;;;;;;;462.192.626;61.141.051;New security cameras logged
+Security camera;10816963518;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.009.749;6.143.214;New security cameras logged
+Security camera;10816963519;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.012.513;61.440.831;New security cameras logged
+Security camera;10818892218;ceiling;dome;;surveillance;public;camera;;(empty);;;;;;;;;;462.291.072;6.122.887;New security cameras logged
+Security camera;10820305802;pole;fixed;;surveillance;public;camera;town;(empty);75;;;;;;;;;;;
+Security camera;10820333787;pole;fixed;;surveillance;public;camera;;(empty);309;;;;;;;;;46.222.377;6.137.521;New security cameras logged
+Security camera;10820333788;pole;fixed;;surveillance;public;camera;;(empty);309;;;;;;;;;4.622.237;6.137.515;New security cameras logged
+Security camera;10820337081;traffic_signals;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.222.063;61.382.226;New security cameras logged
+Security camera;10820337082;street_lamp;fixed;8;surveillance;public;camera;;(empty);151;;;;;;;;;462.221.354;61.379.469;New security cameras logged
+Security camera;10820337083;street_lamp;dome;12;surveillance;public;camera;;(empty);;;;;;;;;;4.622.221;61.387.811;New security cameras logged
+Security camera;10820337084;street_lamp;dome;12;surveillance;public;camera;;(empty);;;;;;;;;;462.223.466;61.388.621;New security cameras logged
+Security camera;10820345248;ceiling;dome;;surveillance;public;camera;public;(empty);;;;;;;;;;462.305.192;61.087.177;New security cameras logged
+Security camera;10820345249;ceiling;dome;;surveillance;public;camera;public;(empty);;;;;;;;;;462.310.382;61.095.033;New security cameras logged
+Security camera;10820345250;ceiling;dome;;surveillance;indoor;camera;public;(empty);;;;;;;;;;46.231.063;61.095.505;New security cameras logged
+Security camera;10820360618;traffic_signals;fixed;;surveillance;public;camera;town;(empty);304;;;;;;;;;462.110.894;61.349.085;New security cameras logged
+Security camera;10820360619;ceiling;fixed;;surveillance;public;camera;;(empty);125;;;;;;;;;462.095.971;61.351.982;New security cameras logged
+Security camera;10820361163;wall;fixed;2;surveillance;public;camera;town;(empty);40;;;;;;;;;;;
+Security camera;10820361164;wall;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;462.212.211;61.391.995;New security cameras logged
+Security camera;10820363044;wall;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.217.071;6.139.052;New security cameras logged
+Security camera;10820363559;wall;dome;;surveillance;public;camera;;(empty);135;;;;;;;;;462.211.565;61.390.109;New security cameras logged
+Security camera;10820363560;wall;dome;;surveillance;public;camera;;(empty);135;;;;;;;;;462.211.517;61.390.015;New security cameras logged
+Security camera;10820363561;wall;dome;;surveillance;public;camera;;(empty);135;;;;;;;;;462.211.472;61.389.956;New security cameras logged
+Security camera;10820363562;wall;dome;;surveillance;public;camera;;(empty);135;;;;;;;;;462.211.053;61.389.189;New security cameras logged
+Security camera;10820363563;wall;fixed;;surveillance;public;camera;;(empty);45;;;;;;;;;462.205.135;61.379.478;New security cameras logged
+Security camera;10820363564;wall;fixed;2;surveillance;public;camera;town;(empty);0;;;;;;;;;462.205.198;613.794;New security cameras logged
+Security camera;10820363566;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.204.253;61.379.179;New security cameras logged
+Security camera;10820363567;pole;;;;;;;;;;;;;;;;;;;
+Security camera;10820363568;wall;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;46.220.108;61.382.355;New security cameras logged
+Security camera;10820363569;ceiling;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;462.197.327;61.386.813;New security cameras logged
+Security camera;10820393920;wall;dome;4;surveillance;public;camera;;(empty);220;;;;;;;;;461.958;61.297.224;New security cameras logged
+Security camera;10820393921;wall;dome;4;surveillance;public;camera;;(empty);305;;;;;;;;;461.958.258;61.297.256;New security cameras logged
+Security camera;10820413385;pole;dome;;surveillance;public;camera;town;(empty);;;;;;;;;;461.941.852;61.348.001;New security cameras logged
+Security camera;10824180583;ceiling;dome;;surveillance;public;camera;;(empty);245;;;;;;;;;461.998.459;61.415.043;New security cameras logged
+Security camera;10824275759;wall;dome;;surveillance;public;camera;town;(empty);150;;;;;;;;;462.022.204;61.424.468;New security cameras logged
+Security camera;10835768791;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.202.802;6.135.091;New security cameras logged
+Security camera;10835768792;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.209.455;6.143.084;New security cameras logged
+Security camera;10835768795;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.210.063;6.144.136;New security cameras logged
+Security camera;10835768796;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.210.138;6.144.222;New security cameras logged
+Security camera;10835768798;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.115.657;61.469.924;New security cameras logged
+Security camera;10835768799;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.211.444;6.147.483;New security cameras logged
+Security camera;10835768800;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.211.452;614.744;New security cameras logged
+Security camera;10835768803;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.211.437;6.149.897;New security cameras logged
+Security camera;10835770707;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.091.574;61.484.679;New security cameras logged
+Security camera;10835770708;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;46.209.046;6.148.374;New security cameras logged
+Security camera;10835770709;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.082.596;61.471.358;New security cameras logged
+Security camera;10835770711;(empty);dome;;surveillance;public;camera;;(empty);;;;;;;;;;46.204.339;6.143.385;New security cameras logged
+Security camera;10835770712;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.030.788;61.355.579;New security cameras logged
+Security camera;10835770717;(empty);(empty);;surveillance;public;camera;;(empty);;;;;;;;;;462.031.155;61.361.035;New security cameras logged
+Security camera;10856130721;wall;dome;2;surveillance;public;camera;town;(empty);325;;;;;;;;;462.295.227;60.679.657;New security cameras logged
+Security camera;10864628836;wall;fixed;2;surveillance;public;camera;town;(empty);295;;;;;;;;;462.295.205;60.679.622;New security cameras logged
+Security camera;10864640981;ceiling;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;461.978.679;6.136.943;New security cameras logged
+Security camera;10864766092;pole;fixed;10;surveillance;public;camera;town;(empty);335;;;;;;;;;462.014.235;61.379.208;New security cameras logged
+Security camera;10864766093;pole;fixed;10;surveillance;public;camera;town;(empty);225;;;;;;;;;462.014.161;61.379.272;New security cameras logged
+Security camera;10864766094;pole;fixed;10;surveillance;public;camera;town;(empty);85;;;;;;;;;462.014.072;61.379.401;New security cameras logged
+Security camera;10864772088;ceiling;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;461.959.996;61.357.612;New security cameras logged
+Security camera;10864772089;ceiling;dome;6;surveillance;public;camera;town;(empty);;;;;;;;;;461.958.957;61.359.436;New security cameras logged
+Security camera;10864786249;wall;dome;6;surveillance;public;camera;town;(empty);305;;;;;;;;;461.963.367;61.353.517;New security cameras logged
+Security camera;10864792412;ceiling;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;46.197.455;61.359.957;New security cameras logged
+Security camera;10864792413;ceiling;dome;4;surveillance;public;camera;town;(empty);;;;;;;;;;461.974.951;61.360.413;New security cameras logged
+Security camera;10864807264;wall;dome;4;surveillance;public;camera;town;(empty);340;;;;;;;;;461.975.816;61.364.795;New security cameras logged
+Security camera;10864811738;ceiling;dome;;surveillance;public;camera;;https://www.flickr.com/photos/197895716@N03/52764111198;;;;;;;;;;462.037.008;61.413.696;New security cameras logged
+Security camera;10892010461;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.442;614.628;New security cameras logged
+Security camera;10892010462;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204;614.579;New security cameras logged
+Security camera;10892010463;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.315;614.768;New security cameras logged
+Security camera;10892010464;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.402;614.622;New security cameras logged
+Security camera;10892010465;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.361;614.804;New security cameras logged
+Security camera;10892010466;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.434;614.734;New security cameras logged
+Security camera;10892010467;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.438;614.712;New security cameras logged
+Security camera;10892010468;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.318;614.736;New security cameras logged
+Security camera;10892010469;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.045;61.475;New security cameras logged
+Security camera;10892010470;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.422;614.744;New security cameras logged
+Security camera;10892010471;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;462.042;614.778;New security cameras logged
+Security camera;10892010472;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.424;614.688;New security cameras logged
+Security camera;10892010473;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.434;614.742;New security cameras logged
+Security camera;10892010474;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.433;614.695;New security cameras logged
+Security camera;10892010475;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.128;6.131.808;New security cameras logged
+Security camera;10892010476;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.201.398;6.131.883;New security cameras logged
+Security camera;10892010477;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.201.228;6.132.001;New security cameras logged
+Security camera;10892010478;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.247;6.136.196;New security cameras logged
+Security camera;10892010479;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.202.765;6.133.643;New security cameras logged
+Security camera;10892010480;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204.124;6.138.696;New security cameras logged
+Security camera;10892010481;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.199.141;6.128.321;New security cameras logged
+Security camera;10892010482;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.200.418;613.831;New security cameras logged
+Security camera;10892299818;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204.784;6.134.727;New security cameras logged
+Security camera;10892299819;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.208.965;6.148.459;New security cameras logged
+Security camera;10892299820;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.344;6.142.408;New security cameras logged
+Security camera;10892299821;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.206.113;6.143.277;New security cameras logged
+Security camera;10892299822;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.206.277;6.143.535;New security cameras logged
+Security camera;10892299823;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.618;6.143.374;New security cameras logged
+Security camera;10892299824;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.206.336;6.143.653;New security cameras logged
+Security camera;10892299825;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.209.989;6.148.266;New security cameras logged
+Security camera;10892299826;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.188;6.136.389;New security cameras logged
+Security camera;10892299827;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.344;6.136.443;New security cameras logged
+Security camera;10892299828;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.205.609;6.140.713;New security cameras logged
+Security camera;10892299829;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.205.616;6.140.949;New security cameras logged
+Security camera;10892299830;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.203.752;6.141.539;New security cameras logged
+Security camera;10892299831;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.699;6.147.472;New security cameras logged
+Security camera;10892299832;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;46.204.881;6.138.042;New security cameras logged
+Security camera;10892299833;(empty);(empty);;surveillance;(empty);;;(empty);;;;;;;;;;4.620.471;6.138.074;New security cameras logged
+Security camera;10988886442;pole;dome;10;surveillance;public;camera;town;(empty);;;;;;;;;;462.325.703;61.364.732;New security cameras logged
+Security camera;10988886443;pole;dome;10;surveillance;public;camera;town;(empty);;;;;;;;;;462.325.836;61.364.603;New security cameras logged
